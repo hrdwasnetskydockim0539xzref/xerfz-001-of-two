@@ -13,7 +13,7 @@ jobs:
 
     env:
       IMAGE_NAME: newdocvhh65hvwbjvj87hchf42j768vjht542bj84bjbitcnetskey0539
-      IMAGE_TAG: 001-of-three
+      IMAGE_TAG: 001-of-two
       GHCR_REGISTRY: ghcr.io
       DOCKERHUB_REGISTRY: docker.io
       MULTI_ARCH: false     # 🔧 Set to true to enable multi-arch builds
